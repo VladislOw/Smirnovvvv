@@ -32,7 +32,7 @@
         <Button Content="&lt;" Grid.Column="2" Grid.Row="2" Grid.ColumnSpan="1" Click="Button_Click" Background="Black" Foreground="white"/>
         <Button Content="/" Grid.Column="3" Grid.Row="2" Grid.ColumnSpan="1" Click="Button_Click_1" Background="Orange"/>
         <Button Content="9" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="1" Click="Button_Click_2" Background="Black" Foreground="white"/>
-        <Button Content="8" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="1" Background="Black" Foreground="white" Click="Button_Click_11"/>
+        <Button Content="8" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="1" Background="Black" Foreground="white" Click="Button_Click_11" />
         <Button Content="7" Grid.Column="2" Grid.Row="3" Grid.ColumnSpan="1" Background="Black" Foreground="white" Click="Button_Click_10"/>
         <Button Content="X" Grid.Column="3" Grid.Row="3" Grid.ColumnSpan="1" Background="Orange"/>
         <Button Content="6" Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="1" Background="Black" Foreground="white" Click="Button_Click_9"/>
